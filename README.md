@@ -7,7 +7,7 @@ I like to investigate and learn many things 🤓, I am a good team player becaus
 - I'm currently studing in [Pontificia Universidad Católica del Ecuador](https://pucem.edu.ec/)
 
 ## Social Media
-- You can find me in instagram a [byron_sz_](https://www.instagram.com/byron_sz_/)
+- You can find me in instagram as [Byron Serrano](https://www.instagram.com/byron_sz_/)
 <!--
 **ByronSerrano/ByronSerrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
