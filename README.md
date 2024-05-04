@@ -1,5 +1,6 @@
 ### Hi there 👋🤓
 I'm Byron Santiago Serrano Zambrano, I from Ecuador and a software Engineering Student.
+
 I like to investigate and learn many things 🤓, I am a good team player because I know how to listen to others and make good decisions 💻.
 
 ## Studies
