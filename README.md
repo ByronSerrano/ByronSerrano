@@ -6,8 +6,7 @@ I'm a **Full Stack Software Engineer** from Ecuador 🇪🇨, specializing in **
 
 - Full Stack Software Engineer with Backend specialization
 - AI enthusiast working with **LLM models** and **MCP (Model Context Protocol)** development
-- Based in Ecuador
-- Passionate about creating robust backend architectures and exploring AI technologies
+- Passionate about creating robust backend architectures and make AI solutions
 
 ## Tech Stack
 
