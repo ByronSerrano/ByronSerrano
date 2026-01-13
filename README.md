@@ -1,6 +1,6 @@
 # Hi there! 👋🤓
 
-I'm a **Full Stack Software Engineer** from Ecuador 🇪🇨, specializing in **Backend Web Development** with a passion for **AI Solutions**, building scalable and efficient applications.
+I'm a **Full Stack Software Engineer**, specializing in **Backend Web Development** with a passion for **AI Solutions**, building scalable and efficient applications.
 
 ## About Me
 
